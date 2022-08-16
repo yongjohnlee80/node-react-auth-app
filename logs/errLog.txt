@@ -1,0 +1,4 @@
+20220815	18:54:16	7a071fe9-223e-407c-9377-d53077687830	ReferenceError: sendFile is not defined
+20220815	22:59:14	04756fd6-98fe-42ea-b2ea-7b782c7bcb68	Error: Cannot set headers after they are sent to the client
+20220815	23:01:09	8a1f9935-4daa-4ac6-8e09-a49ecdf4ea09	Error: Cannot set headers after they are sent to the client
+20220815	23:12:21	bb8aa839-b5da-4b71-8383-57c0b42aa297	SyntaxError: Unexpected string in JSON at position 14
