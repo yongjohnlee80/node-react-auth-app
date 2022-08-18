@@ -135,3 +135,5 @@
 20220817	02:14:56	f01bf565-4947-4ef2-9c2e-ff3300ea4627	POST	undefined	/users/
 20220817	02:15:07	aa59791e-f843-4e8b-884c-2b44cbd7a704	POST	undefined	/users/auth
 20220817	02:15:14	d0f213b1-f025-4f2d-99ab-7bec1b860ead	GET	undefined	/employees
+20220817	03:47:03	4eef2059-ef36-4cc1-b2a5-cfc40a29976c	POST	undefined	/users/auth
+20220817	03:47:13	5e15daf8-1d1a-4054-99c9-8c38405cd6a8	GET	undefined	/employees

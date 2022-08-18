@@ -10,7 +10,7 @@ const verifyJWT = require("../../middleware/verifyJWT");
 
 router
     .route("/")
-    .get(verifyJWT, empController.getAllEmployees)
+    .get(empController.getAllEmployees)
     .post(verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor), empController.createNewEmployee)
     .put(verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor), empController.updateEmployee)
     .delete(verifyRoles(ROLES_LIST.Admin), empController.deleteEmployee);
